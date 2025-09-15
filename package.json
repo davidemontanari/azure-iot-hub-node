@@ -1,6 +1,6 @@
 {
   "name": "azure-iothub",
-  "version": "1.16.5",
+  "version": "1.16.6",
   "description": "Azure IoT SDK - IoT Hub",
   "author": "Microsoft Corporation",
   "license": "MIT",
